@@ -1,0 +1,13 @@
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\bin\Debug\KompasProgram.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\bin\Debug\KompasProgram.pdb
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\KompasProgram.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\KompasProgram.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\KompasProgram.pdb
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\KompasProgram.csprojResolveAssemblyReference.cache
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\Interop.KompasAPI7.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\obj\Debug\KompasProgram.csproj.ResolveComReference.cache
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\bin\Debug\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgram\bin\Debug\MonitorSttings.cs.pdb
